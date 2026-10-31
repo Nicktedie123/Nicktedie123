@@ -16,7 +16,7 @@ Mein Schwerpunkt: **Automatisierungstechnik**,**Konstruktion** und **Energiesyst
 | Projekt | Beschreibung | Tools |
 |---|---|---|
 | [tank-level-control](https://github.com/Nicktedie123/tank-level-control) | Simulation einer Füllstandsregelung mit P-, PI- und PID-Regler (nichtlineares Tankmodell, Anti-Windup) | Python, NumPy, Matplotlib |
-
+|[Schallplattenspieler](https://github.com/Nicktedie123/Schallplattenspieler-VPE). |Entwicklung und vollständige Konstruktion eines Schallplattenspielers im Rahmen eines Produktentwicklungsprojekts. |Fusion 360 |
 Weitere Projekte folgen (CAD, Auslegung, Simulation).
 
 ## Tools und Kenntnisse
